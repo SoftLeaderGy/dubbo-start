@@ -1,4 +1,4 @@
-package com.example.user_service_provider;
+package com.yang.user_service_provider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
